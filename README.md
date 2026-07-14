@@ -22,3 +22,6 @@ acessar as opções de desenvolvedor =>ligar depuração wifi => conectar no ter
 
 Utilização da IA:
 foi utilizado Ia para a descoberta das variáveis de ambiente que precisavam ser configuradas,para o descobrir o webdriver await,para também descobrir os action builders e descoberta das android build tools.A inplementação foi feita por mim
+
+dependencias:
+pip install - r requirement.txt
